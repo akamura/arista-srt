@@ -1,0 +1,5 @@
+# Required dependencies to run Arista SRT
+json
+requests
+datetime
+re
